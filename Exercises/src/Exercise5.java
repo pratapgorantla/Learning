@@ -18,6 +18,7 @@ public class Exercise5 {
 		
 		product = firstvalue*secondvalue;
 		System.out.println("Product of two numbers is " + product);
+		input.close();
 		
 	}
 

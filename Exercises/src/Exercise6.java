@@ -34,7 +34,7 @@ public class Exercise6 {
 		reminder = firstnumber%secondnumber;
 		System.out.println("reminder of above two numbers is " + (reminder));
 		
-		
+		input.close();
 	}
 
 }

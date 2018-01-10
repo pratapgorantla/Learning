@@ -16,7 +16,7 @@ public class Exercise7 {
 
 			System.out.println("8x" + (i) + "=" +  b);
 			
-			
+			input.close();
 			
 		}
 		
